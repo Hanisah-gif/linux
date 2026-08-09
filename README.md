@@ -1,3 +1,3 @@
 # python
 
-https://roadmap.sh/projects/job-listings-scraper
+https://roadmap.sh/projects/server-stats
